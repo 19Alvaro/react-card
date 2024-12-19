@@ -1,0 +1,56 @@
+.card{
+  border: 1px solid hsl(0, 0%, 80%);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.1);
+  padding: 20px;
+  margin: 10px;
+  text-align: left;
+  max-width: 400px;
+  max-height: 850px;
+  display: inline-block;
+}
+h2{
+  font-size: small;
+  color: rgb(68, 127, 129);
+  font-family: Arial, Helvetica, sans-serif;
+}  
+.general{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  color: black;
+}
+   
+.educacion{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  color: black;
+
+}
+
+.card img{
+
+  width: 100px;
+  height: 150px;
+  
+
+}
+
+h3{
+  color: rgb(68, 158, 161);
+}
+
+h4{
+  color: rgb(68, 158, 161);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+
+.Experiencia{
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  text-align: left;
+
+
+}
